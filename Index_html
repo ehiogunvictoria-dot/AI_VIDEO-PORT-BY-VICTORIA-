@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Victoria Chioma Ehiogun • AI Video Portfolio</title>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f4f9; color: #333; margin: 0; padding: 0; }
+  a { text-decoration: none; color: inherit; }
+  header { background: #6c63ff; color: #fff; padding: 2rem; text-align: center; }
+  header h1 { margin: 0; font-size: 2.5rem; }
+  header p { margin-top: 0.5rem; font-size: 1.1rem; }
+  .container { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+  .skills { display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; margin-bottom: 2rem; }
+  .skill { background: #fff; padding: 1rem 1.5rem; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); font-weight: bold; color: #6c63ff; }
+  .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+  .project { background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s; }
+  .project:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.2); }
+  .project img { width: 100%; display: block; border-bottom: 1px solid #ddd; }
+  .project-content { padding: 1rem; }
+  .project-content h3 { margin: 0.5rem 0; color: #6c63ff; }
+  .project-content p { font-size: 0.9rem; color: #555; }
+  footer { text-align: center; padding: 2rem; background: #222; color: white; margin-top: 2rem; font-size: 0.9rem; }
+  footer a { color: #6c63ff; }
+  @media(max-width:600px){ header h1{ font-size: 2rem; } .skill { font-size: 0.9rem; padding: 0.8rem 1rem; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Victoria Chioma Ehiogun</h1>
+  <p>AI Video Portfolio • Storytelling & Creative Technology</p>
+</header>
+
+<div class="container">
+
+  <h2 style="text-align:center;">Skills & Tools</h2>
+  <div class="skills">
+    <div class="skill">OpenAI</div>
+    <div class="skill">Leonardo AI</div>
+    <div class="skill">ElevenLabs</div>
+    <div class="skill">Clipchamp</div>
+  </div>
+
+  <h2 style="text-align:center; margin-bottom:1rem;">My Projects</h2>
+  <div class="projects">
+
+    <div class="project">
+      <a href="https://youtu.be/gScvSvMNJ44" target="_blank">
+        <img src="https://img.youtube.com/vi/gScvSvMNJ44/0.jpg" alt="A Dance with Shadows">
+      </a>
+      <div class="project-content">
+        <h3>A Dance with Shadows</h3>
+        <p>A cinematic AI-generated story about a street dancer discovering an enchanted mask, controlling shadows, and facing dark forces. Scriptwriting, AI visuals, and narration by Victoria Chioma Ehiogun.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/xB4Uo_C0rrA" target="_blank">
+        <img src="https://img.youtube.com/vi/xB4Uo_C0rrA/0.jpg" alt="The Dwarf Land">
+      </a>
+      <div class="project-content">
+        <h3>The Dwarf Land</h3>
+        <p>An imaginative AI-generated story exploring a magical land inhabited by dwarfs, showcasing AI visuals, voice narration, and storytelling by Victoria Chioma Ehiogun.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/TQbA_zaMUt4" target="_blank">
+        <img src="https://img.youtube.com/vi/TQbA_zaMUt4/0.jpg" alt="The Siege in Ekenhuan">
+      </a>
+      <div class="project-content">
+        <h3>The Siege in Ekenhuan</h3>
+        <p>A dramatic AI video depicting a tense siege scenario, combining story, AI-generated visuals, and narration to immerse viewers in the action.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/uknqv0kT6_I" target="_blank">
+        <img src="https://img.youtube.com/vi/uknqv0kT6_I/0.jpg" alt="5 Ways to Explore Your Business">
+      </a>
+      <div class="project-content">
+        <h3>5 Ways to Explore Your Business</h3>
+        <p>An AI-narrated guide offering practical strategies and digital tools to help entrepreneurs expand, innovate, and grow their businesses efficiently.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/nXzkxhSMrJI" target="_blank">
+        <img src="https://img.youtube.com/vi/nXzkxhSMrJI/0.jpg" alt="The Dwarf Land">
+      </a>
+      <div class="project-content">
+        <h3>The Dwarf Land</h3>
+        <p>An immersive AI-generated adventure set in a mystical land of dwarfs, highlighting storytelling, AI visuals, and narration by Victoria Chioma Ehiogun.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/MU5wx_9T8UY" target="_blank">
+        <img src="https://img.youtube.com/vi/MU5wx_9T8UY/0.jpg" alt="Ways to Explore Your Business">
+      </a>
+      <div class="project-content">
+        <h3>Ways to Explore Your Business</h3>
+        <p>A short AI-narrated guide providing actionable ideas and creative approaches for entrepreneurs to explore new business opportunities effectively.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/9dveay6iecU" target="_blank">
+        <img src="https://img.youtube.com/vi/9dveay6iecU/0.jpg" alt="Stress-Free Migration">
+      </a>
+      <div class="project-content">
+        <h3>Stress-Free Migration</h3>
+        <p>An AI-generated explainer video offering practical tips and strategies to make relocation or migration smooth, efficient, and stress-free.</p>
+      </div>
+    </div>
+
+    <div class="project">
+      <a href="https://youtu.be/uknqv0kT6_I" target="_blank">
+        <img src="https://img.youtube.com/vi/uknqv0kT6_I/0.jpg" alt="How to Land in Your Dream Job">
+      </a>
+      <div class="project-content">
+        <h3>How to Land in Your Dream Job</h3>
+        <p>An inspiring AI-narrated guide providing actionable steps, tips, and motivation to help job seekers achieve their ideal career goals.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  <p>Contact: <a href="mailto:Ehiogunvictoria@gmail.com">Ehiogunvictoria@gmail.com</a> | GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+  <p>© 2025 Victoria Chioma Ehiogun</p>
+</footer>
+
+</body>
+</html>
